@@ -3,7 +3,7 @@ import os
 import cohere
 
 # Définition explicite de la clé si ce n'est pas fait dans config.py
-os.environ["COHERE_API_KEY"] = "9NKBOAycoSBN18OO5jL73wDT7ESOiLprS1yFMyEZ"
+os.environ["COHERE_API_KEY"] = "YOUR_API_KEY"
 
 class CustomCohereReranker:
     def __init__(self, vectorstore, k_initial=10, top_n=3):
