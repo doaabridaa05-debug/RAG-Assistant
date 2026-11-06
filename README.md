@@ -94,7 +94,8 @@ To launch the interactive chat interface in your browser:
 
 streamlit run app.py
 ```
-##📄 License
+##📄 License:
+
 This project is open-source under the MIT License.
 
 
