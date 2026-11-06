@@ -74,8 +74,9 @@ Make sure you have Ollama installed, running locally, and the phi3 model pulled:
 ollama pull phi3
 
 ```
-##⚙️ Configuration (config.py)
-in your config.py file at the root directory to set up your API keys and local model factories:
+##⚙️ Configuration (reranker.py)
+
+in your reranker file at the root directory to set up your API keys and local model factories:
 
 ```code
 # Set your Cohere API Key
