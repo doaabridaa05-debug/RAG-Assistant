@@ -52,7 +52,7 @@ RAG/
   1. Clone the Repository
   ```code
   git clone [https://github.com/doaabridaa05-debug/RAG-Assistant/new/main](https://github.com/doaabridaa05-debug/RAG-Assistant/new/main)
-  cd doaabridaa05-debug
+  cd RAG-Assistant
   ```
 2. Create and Activate Virtual Environment
 
